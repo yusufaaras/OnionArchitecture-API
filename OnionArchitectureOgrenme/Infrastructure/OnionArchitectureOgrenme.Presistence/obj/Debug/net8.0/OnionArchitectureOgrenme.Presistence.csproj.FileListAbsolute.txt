@@ -1,0 +1,17 @@
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Presistence.deps.json
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Presistence.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Presistence.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Application.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Application.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.csproj.AssemblyReference.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.AssemblyInfoInputs.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.AssemblyInfo.cs
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.csproj.CoreCompileInputs.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.csproj.CopyComplete
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\refint\OnionArchitectureOgrenme.Presistence.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\OnionArchitectureOgrenme.Presistence.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Infrastructure\OnionArchitectureOgrenme.Presistence\obj\Debug\net8.0\ref\OnionArchitectureOgrenme.Presistence.dll

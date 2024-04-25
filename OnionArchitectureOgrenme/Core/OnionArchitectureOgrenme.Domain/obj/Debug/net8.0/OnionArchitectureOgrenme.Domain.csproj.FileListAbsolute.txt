@@ -1,0 +1,11 @@
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.deps.json
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\OnionArchitectureOgrenme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\OnionArchitectureOgrenme.Domain.AssemblyInfoInputs.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\OnionArchitectureOgrenme.Domain.AssemblyInfo.cs
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\OnionArchitectureOgrenme.Domain.csproj.CoreCompileInputs.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\OnionArchitectureOgrenme.Domain.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\refint\OnionArchitectureOgrenme.Domain.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\OnionArchitectureOgrenme.Domain.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Domain\obj\Debug\net8.0\ref\OnionArchitectureOgrenme.Domain.dll

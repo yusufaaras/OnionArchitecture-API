@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sHtouLxUPx+pYnVVf11kQsbQova5QlqvDiMXUE9UhyuryMwXyGwu/RWonyFfFYAwzCOdpbq32XuXr6ebE6d64w==",
+  "success": true,
+  "projectFilePath": "C:\\WebAspNet\\OnionArchitectureOgrenme\\Infrastructure\\OnionArchitectureOgrenme.Infrastructure\\OnionArchitectureOgrenme.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusuf ARAS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yusuf ARAS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

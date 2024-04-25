@@ -1,0 +1,15 @@
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\bin\Debug\net8.0\OnionArchitectureOgrenme.Application.deps.json
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\bin\Debug\net8.0\OnionArchitectureOgrenme.Application.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\bin\Debug\net8.0\OnionArchitectureOgrenme.Application.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\bin\Debug\net8.0\OnionArchitectureOgrenme.Domain.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.csproj.AssemblyReference.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.AssemblyInfoInputs.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.AssemblyInfo.cs
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.csproj.CoreCompileInputs.cache
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.csproj.CopyComplete
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\refint\OnionArchitectureOgrenme.Application.dll
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\OnionArchitectureOgrenme.Application.pdb
+C:\WebAspNet\OnionArchitectureOgrenme\Core\OnionArchitectureOgrenme.Application\obj\Debug\net8.0\ref\OnionArchitectureOgrenme.Application.dll
